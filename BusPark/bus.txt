@@ -1,0 +1,5 @@
+3 Ivan Ivanov 127 50
+7 Petr Petrov 128 30
+4 Asan Aman 11 70
+9 Ifar Murat 65 20
+12 Sergei Sergeev 38 10
